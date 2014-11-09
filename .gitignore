@@ -1,0 +1,36 @@
+# Ignore bundler config.
+/.bundle
+/bundler
+
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/tmp
+
+.rbx/
+.sass-cache/
+coverage/*
+backups/*
+*.swp
+public/uploads/
+.ruby-version
+.ruby-gemset
+.rvmrc
+.rbenv-version
+.directory
+nohup.out
+.vagrant
+/cookbooks
+.idea
+.DS_Store
+.chef
+vendor/bundle/*
+doc/code/*
+.secret
+*.log
+public/uploads.*
+public/assets/
+.envrc
+dump.rdb
+README.html
+.bundle
+
